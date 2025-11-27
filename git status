@@ -1,0 +1,26 @@
+[33mcommit d20c431989ae99599d296f8f9313e348289d0e2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: sena <cocoavocado0323@gmail.com>
+Date:   Wed Nov 26 11:42:31 2025 +0900
+
+    version control4
+
+ chapter01/Version02.java | 6 [32m++++++[m
+ 1 file changed, 6 insertions(+)
+
+[33mcommit fa5b7f69e43267eb82c2085eb0a80360d28a14b6[m
+Author: sena <cocoavocado0323@gmail.com>
+Date:   Wed Nov 26 11:06:20 2025 +0900
+
+    version control2
+
+ chapter01/Version01.java | 7 [32m++++++[m[31m-[m
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+[33mcommit 3e2d96665070ce8b54a2191ee806ad0295b465b0[m
+Author: sena <cocoavocado0323@gmail.com>
+Date:   Wed Nov 26 10:53:57 2025 +0900
+
+    version control
+
+ chapter01/Version01.java | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
